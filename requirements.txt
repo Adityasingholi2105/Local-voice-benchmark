@@ -1,0 +1,12 @@
+faster-whisper==1.2.1
+ctranslate2==4.8.3
+av==18.1.0
+jiwer==4.0.0
+ollama==0.6.3
+piper-tts==1.8.0
+faster-whisper==1.2.1
+ctranslate2==4.8.3
+av==18.1.0
+jiwer==4.0.0
+ollama==0.6.3
+piper-tts==1.8.0

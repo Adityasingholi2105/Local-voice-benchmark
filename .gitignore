@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+*.m4a
+*.wav
+*.onnx
+*.onnx.json
+results/benchmark.csv
+results/stt_accuracy.csv
+results/tiny_float32.csv

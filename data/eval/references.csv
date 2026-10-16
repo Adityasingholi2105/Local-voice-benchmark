@@ -1,0 +1,11 @@
+filename,reference
+clip_01.m4a,"Speech to text converts spoken words into written text."
+clip_02.m4a,"My local voice assistant runs speech recognition, a language model, and text to speech."
+clip_03.m4a,"I am measuring transcription accuracy and processing time on my laptop."
+clip_04.m4a,"A clear recording can help a speech recognition system understand each word."
+clip_05.m4a,"This project uses local tools to turn speech into a spoken reply."
+clip_06.m4a,"Please save the audio file in the evaluation folder before running the benchmark."
+clip_07.m4a,"The RTX 3050 laptop has four gigabytes of video memory."
+clip_08.m4a,"Background noise can affect how accurately speech is recognized."
+clip_09.m4a,"The first model ran faster, but the second model made fewer word errors."
+clip_10.m4a,"After each run, I compare the transcript with the sentence I originally read."
