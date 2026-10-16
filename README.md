@@ -23,8 +23,9 @@ Whisper runs on the CPU using int8. Ollama uses the GPU for the language model.
 Results are from 10 self-recorded English clips on this laptop. Mean times are calculated from the saved per-clip CSV results.
 
 | Whisper model | Device / compute type | Overall WER ↓ | Mean time per clip ↓ |
-| tiny          | CPU / int8            | 12.1%         | 0.424 s              |
-| base          | CPU / int8            | 6.9%          | 0.649 s              |
+|---|---|---:|---:|
+| tiny | CPU / int8 | 12.1% | 0.424 s |
+| base | CPU / int8 | 6.9% | 0.649 s |
 
 On this evaluation set, `base` had lower WER but took longer per clip. These results apply to this small test set and laptop; they are not general accuracy claims.
 
